@@ -5,4 +5,7 @@ const a3 = 3;
 const ma = 1;
 const ma2 = 2;
 const ma3 = 3;
+const ra = 1;
+const ra2 = 2;
+const ra3 = 3;
 export default a;
